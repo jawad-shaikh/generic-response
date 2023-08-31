@@ -12,10 +12,10 @@
     },
     "author": "Jawad Shaikh",
     "license": "MIT",
-    "keywords": [
-      "http",
-      "responses",
-      "utility"
-    ]
+    "keywords": ["http", "responses", "utility"],
+    "bugs": {
+      "url": "https://github.com/jawad-shaikh/mysql-update-query-builder/issues"
+    },
+    "homepage": "https://github.com/jawad-shaikh/mysql-update-query-builder#readme"
   }
   
