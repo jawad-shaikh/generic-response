@@ -8,6 +8,7 @@ const unauthorizedResponse = require("./lib/unauthorizedResponse");
 const forbiddenResponse = require("./lib/forbiddenResponse");
 const notFoundResponse = require("./lib/notFoundResponse");
 const conflictErrorResponse = require("./lib/conflictErrorResponse");
+const tooManyRequestsResponse = require("./lib/tooManyRequestsResponse");
 const serverErrorResponse = require("./lib/serverErrorResponse");
 const genericResponse = require("./lib/genericResponse");
 
@@ -22,6 +23,7 @@ module.exports = {
     forbiddenResponse,
     notFoundResponse,
     conflictErrorResponse,
+    tooManyRequestsResponse,
     serverErrorResponse,
     genericResponse,
 }
