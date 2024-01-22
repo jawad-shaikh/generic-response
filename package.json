@@ -1,6 +1,6 @@
 {
   "name": "generic-response",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A package for generating standardized and pretty HTTP responses.",
   "main": "index.js",
   "scripts": {
