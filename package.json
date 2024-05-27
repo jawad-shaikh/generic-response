@@ -1,8 +1,8 @@
 {
   "name": "generic-response",
-  "version": "1.0.6",
+  "version": "2.3.1",
   "description": "A package for generating standardized and pretty HTTP responses.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"No tests available\""
   },

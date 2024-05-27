@@ -1,0 +1,1 @@
+{"version":3,"file":"notFoundResponse.js","sourceRoot":"","sources":["../../src/lib/notFoundResponse.ts"],"names":[],"mappings":";;AAUA,MAAM,gBAAgB,GAAG,CAAC,QAAgB,WAAW,EAAoB,EAAE;IACvE,OAAO;QACL,MAAM,EAAE;YACN,IAAI,EAAE,GAAG;YACT,OAAO,EAAE,KAAK;SACf;QACD,IAAI,EAAE,IAAI;QACV,KAAK;QACL,OAAO,EAAE,IAAI;KACd,CAAC;AACN,CAAC,CAAC;AAEF,kBAAe,gBAAgB,CAAC"}

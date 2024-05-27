@@ -1,0 +1,1 @@
+{"version":3,"file":"forbiddenResponse.js","sourceRoot":"","sources":["../../src/lib/forbiddenResponse.ts"],"names":[],"mappings":";;AAUA,MAAM,iBAAiB,GAAG,CAAC,QAAgB,WAAW,EAAqB,EAAE;IACzE,OAAO;QACL,MAAM,EAAE;YACN,IAAI,EAAE,GAAG;YACT,OAAO,EAAE,KAAK;SACf;QACD,IAAI,EAAE,IAAI;QACV,KAAK;QACL,OAAO,EAAE,IAAI;KACd,CAAC;AACN,CAAC,CAAC;AAEF,kBAAe,iBAAiB,CAAC"}

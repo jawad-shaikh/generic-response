@@ -1,0 +1,1 @@
+{"version":3,"file":"unauthorizedResponse.js","sourceRoot":"","sources":["../../src/lib/unauthorizedResponse.ts"],"names":[],"mappings":";;AAUA,MAAM,oBAAoB,GAAG,CAAC,QAAgB,sBAAsB,EAAwB,EAAE;IAC1F,OAAO;QACL,MAAM,EAAE;YACN,IAAI,EAAE,GAAG;YACT,OAAO,EAAE,KAAK;SACf;QACD,IAAI,EAAE,IAAI;QACV,KAAK;QACL,OAAO,EAAE,IAAI;KACd,CAAC;AACN,CAAC,CAAC;AAEF,kBAAe,oBAAoB,CAAC"}

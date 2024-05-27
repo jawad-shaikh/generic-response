@@ -1,0 +1,1 @@
+{"version":3,"file":"serverErrorResponse.js","sourceRoot":"","sources":["../../src/lib/serverErrorResponse.ts"],"names":[],"mappings":";;AAUA,MAAM,mBAAmB,GAAG,CAAC,QAAgB,sBAAsB,EAAuB,EAAE;IACxF,OAAO;QACL,MAAM,EAAE;YACN,IAAI,EAAE,GAAG;YACT,OAAO,EAAE,KAAK;SACf;QACD,IAAI,EAAE,IAAI;QACV,KAAK;QACL,OAAO,EAAE,IAAI;KACd,CAAC;AACN,CAAC,CAAC;AAEF,kBAAe,mBAAmB,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"notFoundResponse.d.ts","sourceRoot":"","sources":["../../src/lib/notFoundResponse.ts"],"names":[],"mappings":"AAAA,UAAU,gBAAgB;IACtB,MAAM,EAAE;QACN,IAAI,EAAE,MAAM,CAAC;QACb,OAAO,EAAE,OAAO,CAAC;KAClB,CAAC;IACF,IAAI,EAAE,IAAI,CAAC;IACX,KAAK,EAAE,MAAM,CAAC;IACd,OAAO,EAAE,IAAI,CAAC;CACjB;AAED,QAAA,MAAM,gBAAgB,WAAW,MAAM,KAAiB,gBAUvD,CAAC;AAEF,eAAe,gBAAgB,CAAC"}
