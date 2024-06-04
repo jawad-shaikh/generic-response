@@ -7,6 +7,6 @@ interface CreateSuccessResponse {
     error: null;
     message: string;
 }
-declare const createSuccessResponse: (data: {} | null, message?: string) => CreateSuccessResponse;
+declare const createSuccessResponse: (data?: {} | null, message?: string) => CreateSuccessResponse;
 export default createSuccessResponse;
 //# sourceMappingURL=createSuccessResponse.d.ts.map

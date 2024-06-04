@@ -7,6 +7,6 @@ interface DeleteSuccessResponse {
     error: null;
     message: string;
 }
-declare const deleteSuccessResponse: (data: {} | null, message?: string) => DeleteSuccessResponse;
+declare const deleteSuccessResponse: (data?: {} | null, message?: string) => DeleteSuccessResponse;
 export default deleteSuccessResponse;
 //# sourceMappingURL=deleteSuccessResponse.d.ts.map

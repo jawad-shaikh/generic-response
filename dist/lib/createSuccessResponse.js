@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const createSuccessResponse = (data, message = "Created Successfully") => {
+const createSuccessResponse = (data = null, message = "Created Successfully") => {
     return {
         status: {
             code: 201,
